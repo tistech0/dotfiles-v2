@@ -22,6 +22,8 @@ brew 'pyenv' # Python version manager
 brew 'pnpm'
 brew 'nvm'
 brew 'k9s'
+brew 'grep'
+
 
 # 'brew install --cask'
 cask 'docker'
