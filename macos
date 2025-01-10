@@ -22,10 +22,10 @@ done 2>/dev/null &
 ###############################################################################
 
 # Set computer name (as done via System Preferences → Sharing)
-sudo scutil --set ComputerName "MacBookSimLF"
-sudo scutil --set HostName "MacBookSimLF"
-sudo scutil --set LocalHostName "MacBookSimLF"
-sudo defaults write /Library/Preferences/SystemConfiguration/com.apple.smb.server NetBIOSName -string "MacBookSimLF"
+sudo scutil --set ComputerName "MacBookTistech"
+sudo scutil --set HostName "MacBookTistech"
+sudo scutil --set LocalHostName "MacBookTistech"
+sudo defaults write /Library/Preferences/SystemConfiguration/com.apple.smb.server NetBIOSName -string "MacBookTistech"
 
 # Always show scrollbars
 defaults write NSGlobalDomain AppleShowScrollBars -string "Always"
