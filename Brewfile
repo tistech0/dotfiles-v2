@@ -12,7 +12,6 @@ tap 'homebrew/bundle'
 brew 'autojump'
 brew 'mackup' # # Backup and restore app settings on macOS
 brew 'mas' # Mac App Store manager
-brew 'zsh'
 brew 'bat' # Improved cat command
 brew 'gh' # GitHub CLI
 brew 'jq' # JSON parser
@@ -28,18 +27,11 @@ brew 'grep'
 # 'brew install --cask'
 cask 'docker'
 cask 'font-agave-nerd-font'
-cask 'gitkraken'
 cask 'jetbrains-toolbox'
 cask 'visual-studio-code'
-cask 'sublime-text'
-cask 'spotify'
-cask 'raycast'
 cask 'rectangle'
-cask 'arc'
-cask 'google-chrome'
 cask 'devcleaner'
 cask 'discord'
-cask 'docker'
 cask 'figma'
 cask 'notion'
 cask 'postman'
